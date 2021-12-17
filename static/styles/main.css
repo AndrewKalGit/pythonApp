@@ -21,3 +21,8 @@ button:hover {
 	color: tomato;
 	transition: 0.5s;
 }
+
+.createdby {
+	color:black;
+	font-size: 8px;
+}

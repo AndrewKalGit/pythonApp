@@ -1,0 +1,23 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: tomato;
+}
+
+button {
+	background-color: tomato;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 36px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+}
+button:hover {
+	background-color: white;
+	color: tomato;
+	transition: 0.5s;
+}
